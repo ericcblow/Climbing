@@ -6,6 +6,6 @@ Goal:
     - Download ticks and check against entered date - Done 
     - RSS feed? 
   - Use CSV data to do some fun analysis and visualization of climbing 
-  - Has a friend climbed this route prompt? Cross reference friends list for specific tick to know who to ask for beta
+  - Has a friend climbed this route prompt? Cross reference friends list for specific tick to know who to ask for beta - Done
     
 After developed, I'll make generic version for general public. 
