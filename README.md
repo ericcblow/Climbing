@@ -8,9 +8,9 @@ Current Functionality:
     - Cross reference friends list for specific tick to know who to ask for beta
   
   
-To add:   
-    1. Use CSV data to do some fun analysis and visualization of climbing 
-    2. Does your friend write really long ticks (me)?
-    - Generate some statistic about particularly wordy or laconic friends. 
+To add: 
+  1. Use CSV data to do some fun analysis and visualization of climbing 
+  2. Does your friend write really long ticks (me)?
+      - Generate some statistic about particularly wordy or laconic friends 
 
 After developed, I'll make generic version for general public. 
