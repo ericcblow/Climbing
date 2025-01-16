@@ -1,5 +1,5 @@
-# Climbing
-A repo to play around with Mountain Project climbing data
+# Climbing 	
+A repo to play around with Mountain Project climbing data :mountain:
 
 Current Functionality: 
   1. Have my friends been crushing?
