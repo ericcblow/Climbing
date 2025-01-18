@@ -21,7 +21,17 @@ Current Functionality:
       - As well as some stats for the friend group
       - Notebook Name: ThxGivingAtThe
   
+
+  
 To add: 
   1. Use CSV data to do some fun analysis and visualization of climbing 
-
+  2. Are my friends climbing nearby? 
+      - Set a date and location to filter for nearby friends?
+  3. How am I progressing?
+      - See your grade over time? filter for sport, trad, ice...
+  4. Scrap routes data?
+      - Check for rating variance 
+      - Do historically strong climbers fall/hung? 
+            - Sandbag or Featherweight tag 
+  
 After developed, I'll make generic version for easier public use but in the meantime feel free to fork. 
